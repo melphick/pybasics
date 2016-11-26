@@ -1,9 +1,9 @@
 #!/usr/bin/python
-...
+"""
 This script will take one variable 'ip_address' and return the IP address in
 dotted binary format always padded to eight binary digits (for example, 
 00001010.01011000.00010001.00010111).
-...
+"""
 
 import sys
 

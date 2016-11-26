@@ -1,9 +1,9 @@
 #!/usr/bin/python
-...
+"""
 This script definesa function that will take one variable 'ip_address'
 and return either True or False (depending on whether 'ip_address' is a
-valid IP). 
-...
+valid IP).
+"""
 
 import sys
 

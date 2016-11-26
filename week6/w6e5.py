@@ -1,9 +1,9 @@
 #!/usr/bin/python
-...
+"""
 This script prompts a user for an IP address, then checks if the IP address is
 valid, and then converts the IP address to binary (dotted decimal format).
 It re-uses the functions created in exercises 3 and 4
-...
+"""
 
 import w6e3
 import w6e4
